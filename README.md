@@ -138,9 +138,11 @@ I believe in a holistic approach to building products. Whether it's architecting
 <tr>
 <td valign="top" width="46%">
 
-**[Zkt-Timer](https://github.com/ibrhyyme/Zkt-Timer)**: a professional speedcubing timer with custom SSR, smart-cube Bluetooth, real-time rooms, and WCA integration.
+**[Zkt-Timer](https://github.com/ibrhyyme/Zkt-Timer)**
 
-<a href="https://github.com/ibrhyyme/Zkt-Timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrhyyme&repo=Zkt-Timer&hide_border=true&title_color=009E60&icon_color=0051BA&text_color=c9d1d9&bg_color=0d1117" alt="Zkt-Timer" /></a>
+A professional speedcubing timer with custom SSR, smart-cube Bluetooth, real-time rooms, and WCA integration. SSR web plus native iOS and Android, built from scratch.
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrhyyme/Zkt-Timer)
 
 </td>
 <td valign="top" width="54%">
@@ -153,7 +155,7 @@ I believe in a holistic approach to building products. Whether it's architecting
 
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhyyme&layout=compact&hide_border=true&title_color=009E60&text_color=c9d1d9&bg_color=0d1117&card_width=340" alt="top langs" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrhyyme&hide_border=true&background=0d1117&stroke=009E60&ring=0051BA&fire=FF5800&currStreakLabel=009E60&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrhyyme&hide_border=true&background=0d1117&stroke=009E60&ring=0051BA&fire=FF5800&currStreakNum=f2f2f2&currStreakLabel=009E60&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 </div>
 
 ### 🐍 Contribution graph
