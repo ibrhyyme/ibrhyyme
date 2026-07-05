@@ -145,18 +145,13 @@ A professional speedcubing timer with custom SSR, smart-cube Bluetooth, real-tim
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrhyyme/Zkt-Timer)
 
 </td>
-<td valign="top" width="54%">
+<td valign="middle" width="54%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrhyyme&show_icons=true&hide_border=true&title_color=009E60&icon_color=0051BA&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrhyyme&hide_border=true&background=0d1117&stroke=009E60&ring=0051BA&fire=FF5800&currStreakNum=f2f2f2&currStreakLabel=009E60&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhyyme&layout=compact&hide_border=true&title_color=009E60&text_color=c9d1d9&bg_color=0d1117&card_width=340" alt="top langs" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrhyyme&hide_border=true&background=0d1117&stroke=009E60&ring=0051BA&fire=FF5800&currStreakNum=f2f2f2&currStreakLabel=009E60&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-</div>
 
 ### 🐍 Contribution graph
 
