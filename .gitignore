@@ -1,0 +1,6 @@
+# Local tools used to generate the image assets (banner.gif etc.).
+# These are NOT part of the profile and should never be pushed.
+banner.html
+cube-capture.html
+terminal.html
+terminal2.html
