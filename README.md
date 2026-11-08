@@ -1,29 +1,17 @@
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/map-m-dark.svg" />
-  <source media="(max-width: 640px)" srcset="assets/map-m-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg" />
-  <img src="assets/map-light.svg" width="100%" alt="İbrahim Yıldız. Full-stack and mobile engineer. A live map of the system I design, build and run. Web, iOS and Android clients reach Cloudflare and Nginx, then Node.js, GraphQL and Socket.IO, backed by PostgreSQL, Redis and Elasticsearch. Bluetooth LE, phone sensors and native plugins feed the clients. Firebase, RevenueCat and Resend are the services. The second product is the ZKT platform on Next.js, with an OAuth 2.0 server and a public API. Docker, GitHub Actions and esbuild ship it. 482k lines maintained, 2 products, 3 platforms, 5 UI languages." />
-</picture>
+<p>
+<a href="assets/map-dark.svg#gh-dark-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/map-m-dark.svg" /><img src="assets/map-dark.svg" width="100%" alt="İbrahim Yıldız. Full-stack and mobile engineer. A live map of the system I design, build and run. Web, iOS and Android clients reach Cloudflare and Nginx, then Node.js, GraphQL and Socket.IO, backed by PostgreSQL, Redis and Elasticsearch. Bluetooth LE, phone sensors and native plugins feed the clients. Firebase, RevenueCat and Resend are the services. The second product is the ZKT platform on Next.js, with an OAuth 2.0 server and a public API. Docker, GitHub Actions and esbuild ship it. 482k lines maintained, 2 products, 3 platforms, 5 UI languages." /></picture></a><a href="assets/map-light.svg#gh-light-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/map-m-light.svg" /><img src="assets/map-light.svg" width="100%" alt="İbrahim Yıldız. Full-stack and mobile engineer. A live map of the system I design, build and run. Web, iOS and Android clients reach Cloudflare and Nginx, then Node.js, GraphQL and Socket.IO, backed by PostgreSQL, Redis and Elasticsearch. Bluetooth LE, phone sensors and native plugins feed the clients. Firebase, RevenueCat and Resend are the services. The second product is the ZKT platform on Next.js, with an OAuth 2.0 server and a public API. Docker, GitHub Actions and esbuild ship it. 482k lines maintained, 2 products, 3 platforms, 5 UI languages." /></picture></a>
+</p>
 
-<br />
 
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/work-m-dark.svg" />
-  <source media="(max-width: 640px)" srcset="assets/work-m-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg" />
-  <img src="assets/work-light.svg" width="100%" alt="Custom server rendering: React SSR without a framework, with per-request i18n, Redux hydration and XSS-safe state. Real-time matches: server-authoritative Socket.IO matches, Redis matchmaking, Glicko-2 ratings and server-side result checks. Bluetooth drivers: five hardware protocol families, ported from csTimer, over Web Bluetooth and native BLE. Native sensor plugins: Swift and Java read the accelerometer and magnetometer. Offline-first sync: a local database and an IndexedDB mutation queue that replays with backoff. OAuth 2.0 server: PKCE and token rotation, next to a public REST and WCIF API." />
-</picture>
+<p>
+<a href="assets/work-dark.svg#gh-dark-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/work-m-dark.svg" /><img src="assets/work-dark.svg" width="100%" alt="Custom server rendering: React SSR without a framework, with per-request i18n, Redux hydration and XSS-safe state. Real-time matches: server-authoritative Socket.IO matches, Redis matchmaking, Glicko-2 ratings and server-side result checks. Bluetooth drivers: five hardware protocol families, ported from csTimer, over Web Bluetooth and native BLE. Native sensor plugins: Swift and Java read the accelerometer and magnetometer. Offline-first sync: a local database and an IndexedDB mutation queue that replays with backoff. OAuth 2.0 server: PKCE and token rotation, next to a public REST and WCIF API." /></picture></a><a href="assets/work-light.svg#gh-light-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/work-m-light.svg" /><img src="assets/work-light.svg" width="100%" alt="Custom server rendering: React SSR without a framework, with per-request i18n, Redux hydration and XSS-safe state. Real-time matches: server-authoritative Socket.IO matches, Redis matchmaking, Glicko-2 ratings and server-side result checks. Bluetooth drivers: five hardware protocol families, ported from csTimer, over Web Bluetooth and native BLE. Native sensor plugins: Swift and Java read the accelerometer and magnetometer. Offline-first sync: a local database and an IndexedDB mutation queue that replays with backoff. OAuth 2.0 server: PKCE and token rotation, next to a public REST and WCIF API." /></picture></a>
+</p>
 
-<br />
 
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/stack-m-dark.svg" />
-  <source media="(max-width: 640px)" srcset="assets/stack-m-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Swift, Java, Python, SQL, Capacitor. Frontend: Next.js, Redux, Apollo, Tailwind CSS, Sass, Three.js, i18next, PWA. Cloud and hardware: AWS, Sentry, Arduino. Design and motion: Figma, Photoshop, Illustrator, After Effects, Premiere Pro, Blender. CAD, data, automation: AutoCAD, Fusion 360, SolidWorks, Power BI, Excel VBA, Zapier, Notion, Google Workspace." />
-</picture>
+<p>
+<a href="assets/stack-dark.svg#gh-dark-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/stack-m-dark.svg" /><img src="assets/stack-dark.svg" width="100%" alt="Languages: TypeScript, JavaScript, Swift, Java, Python, SQL, Capacitor. Frontend: Next.js, Redux, Apollo, Tailwind CSS, Sass, Three.js, i18next, PWA. Cloud and hardware: AWS, Sentry, Arduino. Design and motion: Figma, Photoshop, Illustrator, After Effects, Premiere Pro, Blender. CAD, data, automation: AutoCAD, Fusion 360, SolidWorks, Power BI, Excel VBA, Zapier, Notion, Google Workspace." /></picture></a><a href="assets/stack-light.svg#gh-light-mode-only"><picture><source media="(max-width: 640px)" srcset="assets/stack-m-light.svg" /><img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Swift, Java, Python, SQL, Capacitor. Frontend: Next.js, Redux, Apollo, Tailwind CSS, Sass, Three.js, i18next, PWA. Cloud and hardware: AWS, Sentry, Arduino. Design and motion: Figma, Photoshop, Illustrator, After Effects, Premiere Pro, Blender. CAD, data, automation: AutoCAD, Fusion 360, SolidWorks, Power BI, Excel VBA, Zapier, Notion, Google Workspace." /></picture></a>
+</p>
 
-<br />
 
 <p>
 <a href="https://zktimer.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-web-dark.svg" /><img src="assets/link-web-light.svg" width="200" alt="ZKT Timer: zktimer.app" /></picture></a>
