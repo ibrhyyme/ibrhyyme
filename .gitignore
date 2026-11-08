@@ -4,3 +4,6 @@ banner.html
 cube-capture.html
 terminal.html
 terminal2.html
+
+# Generator for the SVGs in assets/. Kept local, never pushed.
+tools/
